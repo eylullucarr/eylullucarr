@@ -2,7 +2,9 @@
 
 -  🔭 I am a 20 years old, a computer science/engineering student at Gazi University from Turkiye
  
-- 🌱 I’m currently learning Angular 
+- 🌱 I’m currently learning Angular
+ 
+- 📝 I regularly write articles within my [Medium Account](https://medium.com/@eyllull.ucar)
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eylullucarr&label=Profile%20views&color=0e75b6&style=flat" alt="eylullucarr" /> </p>
 
