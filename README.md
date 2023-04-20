@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏻, I'm Eylül Uçar </h1>
+<h1 align="center">Hi 👋🏻 , I'm Eylül Uçar </h1>
 
 -  🔭 I am a 20 years old, a computer science/engineering student at Gazi University from Turkiye
  
