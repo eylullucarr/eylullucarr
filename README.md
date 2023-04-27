@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/eylulucarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eylulucarr" height="30" width="40" /></a>
 <a href="https://medium.com/@eyllull.ucar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@eyllull.ucar" height="30" width="40" /></a>
 <a href="https://instagram.com/eylullucarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eylullucarr" height="30" width="40" /></a>
-<a href="https://twitter.com/nickieylul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nickieylul" height="30" width="40" /></a>
+<a href="https://twitter.com/eyldnzgr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eyldnzgr" height="30" width="40" /></a>
 </p>
 
 
