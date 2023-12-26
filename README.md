@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋🏻 , I'm Eylül Uçar </h1>
 
--  🔭 I am a 20 years old, a computer science/engineering student at Gazi University from Turkiye
+-  🔭 I am a 21 years old, a computer science/engineering student at Gazi University from Turkiye
  
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Pyhton and AWS Cloud Techs.
  
 - 📝 I regularly write articles within my [Medium Account](https://medium.com/@eyllull.ucar)
  
